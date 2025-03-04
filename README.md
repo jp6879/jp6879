@@ -8,9 +8,6 @@ I studied Physics at Instituto Balseiro and have a passion for coding and AI. I 
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [juanpablom6789@gmail.com](mailto:juanpablom6789@gmail.com)
-* 🚀  I'm currently working on ML Applied to the analysis of temporal signals to extract information from MRI beyond their resolution
-* 🧠  I'm learning LLMs, State of the art techniques on DL, Databases, Reinforcement Learning.
-* 🤝  I'm open to collaborating on LLMs Agents projects or Applied ML Projects.
 
 ### Skills
 
