@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Pablo
 ==================================================================================================================================
 
-M.Sc. Physics Student - Machine Learning
+M.Sc. Physics - Machine Learning - Software Developer
 ----------------------------------------
 
 I studied Physics at Instituto Balseiro and have a passion for coding and AI. I love learning new things and investigating innovative technologies in this field.
